@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Junlong Chen, a PhD student at the Department of Engineering, University of Cambridge. My research focuses on leveraging large language models for scene interpretation to improve interaction experience with immersive content in XR, and provide visual accessibility designs for 3D content.
+Hi! I am Junlong Chen, a PhD student at the Department of Engineering, University of Cambridge. My research focuses on leveraging large language models for scene interpretation to provide visual accessibility designs for 3D content ("EnVision") and improve interaction experience with immersive content in XR ("Envision XR").
 
-A data-driven personal website
-======
+I am currently starting new projects on interaction design for LLM-assisted applications for 3D content. Please feel free to shoot me an email if you are interested in future collaborations!
+
+<!-- ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
@@ -46,4 +47,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

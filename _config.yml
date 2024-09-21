@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Junlong Chen / Site Title"
+title                    : "Junlong Chen"
 title_separator          : "-"
 name                     : &name "Junlong Chen"
 description              : &description "PhD Candidate at the University of Cambridge"
@@ -221,7 +221,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
