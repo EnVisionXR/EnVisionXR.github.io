@@ -2,7 +2,7 @@
 title: "Tri-Cardioid Co-Centered Co-Planar Array - Its Direction-Finding Cramer-Rao Bound and Design Guidelines"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/sigproc-tri-cardioid
 excerpt: 'This article analyzes a 2-D planar configuration of three colocated/cocentered cardioids differently oriented azimuthally apart by 120 degrees.'
 #  and derives the triplet's polar/azimuthal direction-finding Cramer-Rao lower bounds.'
 date: 2022-07-18

@@ -2,7 +2,7 @@
 title: "Detection thresholds with joint horizontal and vertical gains in redirected jumping"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/vr-redirected-jumping
 excerpt: 'We explored joint horizontal and vertical gains that manipulate horizontal and vertical distances at the same time during two-legged takeoff jumping in the virtual space. In a user study, we estimated and analyzed horizontal and vertical detection thresholds.'
 date: 2021-03-27
 venue: 'IEEE Virtual Reality and 3D User Interfaces (VR) 2021'
