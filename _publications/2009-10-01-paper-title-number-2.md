@@ -3,7 +3,7 @@ title: "PAVAL: Position-Aware Virtual Agent Locomotion for Assisted Virtual Real
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'In this paper, we present a novel position-aware virtual agent locomotion method, called PAVAL, that can perform virtual agent positioning (position+orientation) in real time for room-scale VR navigation assistance.'
+excerpt: 'In this paper, we present a novel position-aware virtual agent locomotion method, called PAVAL, that can perform virtual agent positioning (position and orientation) in real time for room-scale VR navigation assistance.'
 date: 2021-11-01
 venue: 'IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2021'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
