@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Interaction Design"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course supervisor - Part IA CST"
+permalink: /teaching/int-design
+venue: "Department of Computer Science and Technology, University of Cambridge"
+date: 2024-05-01
+location: "Cambridge, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The aim of this course is to provide an introduction to interaction design, with an emphasis on understanding and experiencing the user-centred design process, from conducting user research and requirements development to implementation and evaluation, while understanding the background to human-computer interaction. The supervision covers topics including user research methods, identifying users and stakeholders, methods for exploring the design space, visual and interaction design, memory, perception, attention, and their implications for interaction design, modalities of interaction, and practical methods for evaluating designs. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
