@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/assistvr-interaction-strategy
 excerpt: 'By analyzing common interaction patterns and key barriers, we identify opportunities for improving natural language interfaces in 3D design tools and propose design recommendations for future LLM-integrated 3D content creation systems.'
 date: 2024-10-29
-# venue: '(Under review)'
+venue: '(Under review)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2410.22177'
 citation: 'Chen, J., Grubert, J., & Kristensson, P. O. (2024). Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes. arXiv preprint arXiv:2410.22177.'
