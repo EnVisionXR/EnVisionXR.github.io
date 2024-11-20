@@ -1,14 +1,14 @@
 ---
-title: "PAVAL: Position-Aware Virtual Agent Locomotion for Assisted Virtual Reality Navigation"
+title: "Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes"
 collection: publications
 category: conferences
-permalink: /publication/vr-agent-navigation
-excerpt: 'In this paper, we present a novel position-aware virtual agent locomotion method, called PAVAL, that can perform virtual agent positioning (position and orientation) in real time for room-scale VR navigation assistance.'
-date: 2021-11-01
-venue: 'IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2021'
+permalink: /publication/assistvr-interaction-strategy
+excerpt: 'By analyzing common interaction patterns and key barriers, we identify opportunities for improving natural language interfaces in 3D design tools and propose design recommendations for future LLM-integrated 3D content creation systems.'
+date: 2024-10-29
+venue: '(Under review)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9583787&casa_token=WUQ18TOZqa4AAAAA:npCrFIlUM5hKmgVWPm5p-ahpDhrq8-qVjbb75Vux8hVnI6tEWMDJ1cp3IwsewSrt9j5RQwHVQ7Y'
-citation: 'Ye, Z. M., Chen, J. L., Wang, M., & Yang, Y. L. (2021, October). Paval: Position-aware virtual agent locomotion for assisted virtual reality navigation. In 2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR) (pp. 239-247). IEEE.'
+paperurl: 'https://arxiv.org/abs/2410.22177'
+citation: 'Chen, J., Grubert, J., & Kristensson, P. O. (2024). Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes. arXiv preprint arXiv:2410.22177.'
 ---
 
-Virtual agents are typical assistance tools for navigation and interaction in Virtual Reality (VR) tour, training, education, etc. It has been demonstrated that the gaits, gestures, gazes, and positions of virtual agents are major factors that affect the user's perception and experience for seated and standing VR. In this paper, we present a novel position-aware virtual agent locomotion method, called PAVAL, that can perform virtual agent positioning (position+orientation) in real time for room-scale VR navigation assistance. We first analyze design guidelines for virtual agent locomotion and model the problem using the positions of the user and the surrounding virtual objects. Then we conduct a one-off preliminary study to collect subjective data and present a model for virtual agent positioning prediction with fixed user position. Based on the model, we propose an algorithm to optimize the object of interest, virtual agent position, and virtual agent orientation in sequence for virtual agent locomotion. As a result, during user navigation in a virtual scene, the virtual agent automatically moves in real time and introduces virtual object information to the user. We evaluate PAVAL and two alternative methods via a user study with humanoid virtual agents in various scenes, including virtual museum, factory, and school gym. The results reveal that our method is superior to the baseline condition.
+As more applications of large language models (LLMs) for 3D content for immersive environments emerge, it is crucial to study user behaviour to identify interaction patterns and potential barriers to guide the future design of immersive content creation and editing systems which involve LLMs. In an empirical user study with 12 participants, we combine quantitative usage data with post-experience questionnaire feedback to reveal common interaction patterns and key barriers in LLM-assisted 3D scene editing systems. We identify opportunities for improving natural language interfaces in 3D design tools and propose design recommendations for future LLM-integrated 3D content creation systems. Through an empirical study, we demonstrate that LLM-assisted interactive systems can be used productively in immersive environments.
